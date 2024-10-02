@@ -1,0 +1,30 @@
+body {
+    color: deeppink;
+    background: black;
+    font-family: "Playwrite CU", system-ui;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+
+}
+
+button {
+    color: black;
+    font-family: "Playwrite CU", system-ui;
+    background: floralwhite;
+
+}
+
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+img{
+    height: 700px;
+}
